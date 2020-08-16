@@ -31,7 +31,7 @@ proxy:
       display-name: AMZOOS
       container-cmd: []
       container-image: shiny-amzoos
-      container-network: sp-net
+      container-network: sp-test-net-aws
 
 
 
